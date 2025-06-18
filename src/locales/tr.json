@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımda",
+    "skills": "Yetenekler",
+    "experience": "Deneyim",
+    "projects": "Projeler",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "greeting": "Merhaba, ben",
+    "role": "Elektrik & Elektronik Mühendisi",
+    "description": "Gömülü sistemler, devre tasarımı ve güç elektroniği konularında uzmanlaşıyorum. Şu anda İstanbul Teknik Üniversitesi'nde Elektrik Mühendisliği yüksek lisans eğitimime devam ediyorum.",
+    "contact": "İletişime Geç",
+    "scroll": "Aşağı Kaydır",
+    "title": "Elektrik-Elektronik Mühendisi",
+    "tagline": "Amaç odaklı mühendislik inovasyonu",
+    "viewProjects": "Projeleri Gör"
+  },
+  "about": {
+    "title": "Hakkımda",
+    "description": "Gömülü sistemler ve devre tasarımı konularına tutkulu bir Elektrik & Elektronik Mühendisiyim. Mikrodenetleyiciler, sensörler ve güç elektroniği bileşenleri kullanarak çeşitli projeler geliştirme deneyimine sahibim. Şu anda İstanbul Teknik Üniversitesi'nde güç elektroniği ve kontrol sistemleri üzerine yüksek lisans eğitimime devam ediyorum.",
+    "education": "Eğitim",
+    "experience": "Deneyim",
+    "download": "CV İndir",
+    "paragraph1": "Abdullah Gül Üniversitesi'nden güçlü bir akademik geçmişe sahip bir Elektrik-Elektronik Mühendisiyim. Tutkum, teorik bilgiyi pratik problem çözme becerileriyle birleştirdiğim gömülü sistemler ve devre tasarımında yatıyor.",
+    "paragraph2": "Gerçek dünya uygulamalarına odaklanarak, donanım ve yazılım arasındaki boşluğu dolduran yenilikçi çözümler geliştirmekte uzmanlaştım. Deneyimim mikrodenetleyici programlamadan karmaşık devre tasarımı ve sistem entegrasyonuna kadar uzanıyor."
+  },
+  "skills": {
+    "title": "Yetenekler",
+    "description": "İşte çalıştığım bazı teknolojiler ve araçlar",
+    "categories": {
+      "programming": "Programlama Dilleri",
+      "frameworks": "Framework'ler & Kütüphaneler",
+      "tools": "Araçlar & Platformlar",
+      "languages": "Diller"
+    },
+    "languages": "Diller & Araçlar",
+    "hardware": "Donanım & Gömülü Sistemler",
+    "softSkills": "Kişisel Beceriler"
+  },
+  "experience": {
+    "title": "Deneyim",
+    "description": "Profesyonel yolculuğum ve başarılarım",
+    "trt": {
+      "description": "Power BI, MySQL ve SSIS kullanarak veri görselleştirme ve entegrasyon"
+    },
+    "butkon": {
+      "description": "KiCad ve Altium ile devre tasarımı, iletişim protokolleri (CAN Bus, I2C, UART)"
+    },
+    "goktas": {
+      "description": "Otonom robot tasarımı (STM32, Arduino, React UI)"
+    },
+    "hospital": {
+      "description": "Endüstriyel sistemler, bakım ve operasyon deneyimi"
+    },
+    "present": "Şu an",
+    "responsibilities": "Temel Sorumluluklar",
+    "achievements": "Temel Başarılar",
+    "researchAssistant": {
+      "description": "Elektrik Mühendisliği Bölümü'nde Araştırma Görevlisi olarak çalışıyorum. Güç elektroniği ve kontrol sistemleri araştırmalarına odaklanıyorum.",
+      "responsibilities": [
+        "Güç elektroniği ve kontrol sistemleri üzerine araştırmalar yapmak",
+        "Laboratuvar deneylerinde ve veri analizinde yardımcı olmak",
+        "Lisans öğrencilerinin projelerinde destek olmak"
+      ],
+      "achievements": [
+        "Uluslararası konferanslarda araştırma makaleleri yayınlamak",
+        "Güç dönüştürücüler için yeni kontrol algoritmaları geliştirmek"
+      ]
+    },
+    "aselsan": {
+      "description": "Savunma Sistemleri Bölümü'nde Elektrik Mühendisi Stajyeri olarak çalıştım. Gömülü sistemler ve devre tasarımına odaklandım.",
+      "responsibilities": [
+        "Mikrodenetleyiciler kullanarak gömülü sistemler tasarlamak ve uygulamak",
+        "Savunma sistemleri için iletişim protokolleri geliştirmek",
+        "Sistem entegrasyonu ve testlerine katılmak"
+      ],
+      "achievements": [
+        "Kritik bir savunma sistemi projesini başarıyla tamamlamak",
+        "Optimizasyon ile sistem performansını %30 artırmak"
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projeler",
+    "description": "İşte bazı önemli projelerim",
+    "demo": "Demo",
+    "github": "GitHub",
+    "view": "Projeyi Görüntüle",
+    "viewDetails": "Detayları Gör",
+    "liveDemo": "Canlı Demo",
+    "project1": {
+      "title": "Gerinim Sensörü ile Hareket Algılama Sistemi",
+      "description": "Gerinim sensörleri ve ESP8266 kullanarak hareket algılama sistemi geliştirdim, LTspice ve Matlab'da simülasyon ve analiz yaptım."
+    },
+    "project2": {
+      "title": "Gerçek Zamanlı Solunum Monitörü",
+      "description": "Özel devre tasarımı ve MATLAB GUI arayüzü ile gerçek zamanlı görüntüleme için solunum izleme sistemi oluşturdum."
+    },
+    "project3": {
+      "title": "PID Hat Takip Eden Robot",
+      "description": "STM32 ve Arduino kullanarak PID kontrollü hat takip eden robot geliştirdim, hassas hareket kontrolü ve sensör entegrasyonu sağladım."
+    },
+    "project4": {
+      "title": "VHDL Tabanlı Otomat Makinesi",
+      "description": "VHDL kullanarak otomat makinesi sistemi tasarladım ve simüle ettim, durum makineleri ve dijital mantık devreleri uyguladım."
+    },
+    "project5": {
+      "title": "3 Fazlı Transformatör Tasarımı",
+      "description": "ANSYS Maxwell kullanarak elektromanyetik simülasyon ve analiz için 3 fazlı transformatör tasarımını optimize ettim."
+    },
+    "project6": {
+      "title": "2000W PM Motor Optimizasyonu",
+      "description": "Performans analizi için ANSYS ve MATLAB kullanarak 2000W sürekli mıknatıslı motorun optimizasyonunu gerçekleştirdim."
+    },
+    "project7": {
+      "title": "Göktaş AGV",
+      "description": "Teknofest yarışması için otonom güdümlü araç geliştirmesine öncülük ettim ve finalist oldum."
+    }
+  },
+  "contact": {
+    "title": "İletişime Geç",
+    "description": "Herhangi bir soru veya fırsat için benimle iletişime geçmekten çekinmeyin",
+    "name": "İsim",
+    "email": "E-posta",
+    "message": "Mesaj",
+    "send": "Mesaj Gönder",
+    "success": "Mesaj başarıyla gönderildi!",
+    "error": "Mesaj gönderilirken hata oluştu. Lütfen tekrar deneyin.",
+    "location": "Konum",
+    "locationValue": "İstanbul, Türkiye",
+    "emailValue": "bercndmr@gmail.com",
+    "phone": "Telefon",
+    "phoneValue": "+90 555 123 4567",
+    "sendMessage": "Mesaj Gönder",
+    "contactInfo": "İletişim Bilgileri",
+    "socialMedia": "Sosyal Medya",
+    "emailButton": "Bana E-posta Gönder",
+    "reachOut": "Bana Ulaşın!"
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır",
+    "made": "ile yapıldı",
+    "by": "tarafından"
+  }
+} 

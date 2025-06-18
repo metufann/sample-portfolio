@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "role": "Electrical & Electronics Engineer",
+    "description": "I specialize in embedded systems, circuit design, and power electronics. Currently pursuing my master's degree in Electrical Engineering at Istanbul Technical University.",
+    "contact": "Contact Me",
+    "scroll": "Scroll Down",
+    "title": "Electrical-Electronics Engineer",
+    "tagline": "Engineering innovation with purpose",
+    "viewProjects": "View Projects"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I am an Electrical & Electronics Engineer with a passion for embedded systems and circuit design. I have experience in developing various projects using microcontrollers, sensors, and power electronics components. I am currently pursuing my master's degree in Electrical Engineering at Istanbul Technical University, focusing on power electronics and control systems.",
+    "education": "Education",
+    "experience": "Experience",
+    "download": "Download CV",
+    "paragraph1": "I am an Electrical-Electronics Engineer with a strong academic background from Abdullah Gül University. My passion lies in embedded systems and circuit design, where I combine theoretical knowledge with practical problem-solving skills.",
+    "paragraph2": "With a focus on real-world applications, I specialize in developing innovative solutions that bridge the gap between hardware and software. My experience spans from microcontroller programming to complex circuit design and system integration."
+  },
+  "skills": {
+    "title": "Skills",
+    "description": "Here are some of the technologies and tools I work with",
+    "categories": {
+      "programming": "Programming Languages",
+      "frameworks": "Frameworks & Libraries",
+      "tools": "Tools & Platforms",
+      "languages": "Languages"
+    },
+    "languages": "Languages & Tools",
+    "hardware": "Hardware & Embedded",
+    "softSkills": "Soft Skills"
+  },
+  "experience": {
+    "title": "Experience",
+    "description": "My professional journey and achievements",
+    "trt": {
+      "description": "Data visualization & integration using Power BI, MySQL, SSIS"
+    },
+    "butkon": {
+      "description": "Circuit design with KiCad & Altium, communication protocols (CAN Bus, I2C, UART)"
+    },
+    "goktas": {
+      "description": "Autonomous robot design (STM32, Arduino, React UI)"
+    },
+    "hospital": {
+      "description": "Industry systems, maintenance, and operations exposure"
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "Here are some of my notable projects",
+    "demo": "Demo",
+    "github": "GitHub",
+    "view": "View Project",
+    "viewDetails": "View Details",
+    "liveDemo": "Live Demo",
+    "project1": {
+      "title": "Strain Sensor System for Motion Detection",
+      "description": "Developed a motion detection system using strain sensors and ESP8266, with simulation and analysis in LTspice and Matlab."
+    },
+    "project2": {
+      "title": "Real-Time Breathing Monitor",
+      "description": "Created a breathing monitoring system with custom circuit design and MATLAB GUI interface for real-time visualization."
+    },
+    "project3": {
+      "title": "PID Line Following Robot",
+      "description": "Implemented a PID-controlled line following robot using STM32 and Arduino, featuring precise motion control and sensor integration."
+    },
+    "project4": {
+      "title": "VHDL-based Vending Machine",
+      "description": "Designed and simulated a vending machine system using VHDL, implementing state machines and digital logic circuits."
+    },
+    "project5": {
+      "title": "3-phase Transformer Design",
+      "description": "Optimized 3-phase transformer design using ANSYS Maxwell for electromagnetic simulation and analysis."
+    },
+    "project6": {
+      "title": "2000W PM Motor Optimization",
+      "description": "Performed optimization of a 2000W permanent magnet motor using ANSYS and MATLAB for performance analysis."
+    },
+    "project7": {
+      "title": "Göktaş AGV",
+      "description": "Led the development of an autonomous guided vehicle for Teknofest competition, achieving finalist status."
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "Feel free to reach out to me for any questions or opportunities",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "success": "Message sent successfully!",
+    "error": "Error sending message. Please try again.",
+    "location": "Location",
+    "locationValue": "Istanbul, Turkey",
+    "emailValue": "bercndmr@gmail.com",
+    "phone": "Phone",
+    "phoneValue": "+90 555 123 4567",
+    "sendMessage": "Send Message",
+    "contactInfo": "Contact Information",
+    "socialMedia": "Social Media",
+    "emailButton": "Email Me",
+    "reachOut": "Reach Out to Me!"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "made": "Made with",
+    "by": "by"
+  }
+} 
