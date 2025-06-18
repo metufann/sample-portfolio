@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
-import { HiBriefcase } from 'react-icons/hi';
+import { HiCalendar } from 'react-icons/hi';
 
 const Experience = () => {
   const { t } = useTranslation();

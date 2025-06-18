@@ -1,10 +1,8 @@
-import { useState } from 'react';
 import { useTranslation } from 'react-i18next';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion } from 'framer-motion';
 
 const Projects = () => {
   const { t } = useTranslation();
-  const [selectedProject, setSelectedProject] = useState<number | null>(null);
 
   const projects = [
     {
