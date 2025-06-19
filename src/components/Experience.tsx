@@ -7,20 +7,20 @@ const Experience = () => {
 
   const experiences = [
     {
-      company: 'TRT',
-      location: 'Ankara',
-      period: '2024',
-      description: t('experience.trt.description'),
-    },
-    {
       company: 'Butkon Asansör',
       location: 'Konya',
       period: '2025',
       description: t('experience.butkon.description'),
     },
     {
+      company: 'TRT',
+      location: 'Ankara',
+      period: '2024',
+      description: t('experience.trt.description'),
+    },
+    {
       company: 'Göktaş AGV Teknofest Team',
-      location: 'Konya',
+      location: 'Kayseri',
       period: '2023–2025',
       description: t('experience.goktas.description'),
     },

@@ -1,10 +1,10 @@
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
-import { HiMail, HiPhone, HiLocationMarker } from 'react-icons/hi';
+import { HiMail, HiLocationMarker } from 'react-icons/hi';
 import { FaLinkedin } from 'react-icons/fa';
 
 const Contact = () => {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
 
   return (
     <section id="contact" className="py-20 bg-gray-50 dark:bg-gray-800">
@@ -33,12 +33,8 @@ const Contact = () => {
                   </a>
                 </div>
                 <div className="flex items-center text-gray-600 dark:text-gray-300">
-                  <HiPhone className="w-6 h-6 mr-3 text-primary-600 dark:text-primary-400" />
-                  <span>{t('contact.phoneValue')}</span>
-                </div>
-                <div className="flex items-center text-gray-600 dark:text-gray-300">
                   <HiLocationMarker className="w-6 h-6 mr-3 text-primary-600 dark:text-primary-400" />
-                  <span>{t('contact.locationValue')}</span>
+                  <span>{i18n.language === 'tr' ? 'Konya, Türkiye' : 'Konya, Turkey'}</span>
                 </div>
               </div>
 
@@ -47,7 +43,7 @@ const Contact = () => {
               </h3>
               <div className="flex space-x-6">
                 <a
-                  href="https://linkedin.com/in/berfindemiroglu"
+                  href="https://www.linkedin.com/in/berfin-candemir-114a3826b/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-600 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400"

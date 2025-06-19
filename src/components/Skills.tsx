@@ -6,12 +6,10 @@ const Skills = () => {
 
   const skills = {
     languages: [
-      'Python',
       'C',
       'VHDL',
       'MySQL',
       'Power BI',
-      'SSIS',
     ],
     hardware: [
       'STM32',

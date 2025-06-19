@@ -38,7 +38,7 @@ const Projects = () => {
     {
       title: t('projects.project7.title'),
       description: t('projects.project7.description'),
-      tech: ['STM32', 'Arduino', 'React', 'Autonomous Systems'],
+      tech: ['STM32', 'Arduino', 'Autonomous Systems'],
     },
   ];
 
