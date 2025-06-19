@@ -34,7 +34,7 @@ const Contact = () => {
                 </div>
                 <div className="flex items-center text-gray-600 dark:text-gray-300">
                   <HiLocationMarker className="w-6 h-6 mr-3 text-primary-600 dark:text-primary-400" />
-                  <span>{i18n.language === 'tr' ? 'Konya, Türkiye' : 'Konya, Turkey'}</span>
+                  <span>{i18n.language === 'tr' ? 'Ankara, Türkiye' : 'Ankara, Turkey'}</span>
                 </div>
               </div>
 
